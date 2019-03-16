@@ -15,4 +15,4 @@ The default length is 100 characters
 The default filename is set to output.txt
 
 ## Future plans
-* Add an equivalent of [pattern_offset.rb](https://github.com/rapid7/metasploit-framework/blob/master/tools/exploit/pattern_offset.rb)
+* Add an equivalent of [pattern_create.rb](https://github.com/rapid7/metasploit-framework/blob/master/tools/exploit/pattern_create.rb)
