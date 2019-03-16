@@ -9,7 +9,9 @@ I'm trying to get better at Go, so I'm porting some of the scripts I frequently 
 
 ## Usage
 `./generator -length=1234 -filename=out.txt`
+
 The default length is 100 characters
+
 The default filename is set to output.txt
 
 ## Future plans
