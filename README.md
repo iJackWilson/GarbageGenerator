@@ -5,6 +5,7 @@ I'm trying to get better at Go, so I'm porting some of the scripts I frequently 
 
 
 ## Installation
+`git clone https://github.com/iJackWilson/GarbageGenerator.git`
 `go build generator.go`
 
 ## Usage
